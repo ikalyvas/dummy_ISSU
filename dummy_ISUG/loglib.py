@@ -52,3 +52,4 @@ def message_pool(branch, revision):
     #: Choose randomly an outgoing message each time :#
     out = random.choice(body_mail)
     return out
+
